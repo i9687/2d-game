@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  2d game
+//  2dspacerunnergame
 //
-//  Created by Ihor Mandziuk on 11/4/21.
+//  Created by Ihor Mandziuk on 12/6/21.
 //
 
 import UIKit
